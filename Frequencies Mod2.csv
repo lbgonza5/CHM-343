@@ -1,5 +1,4 @@
-﻿,Resonant Frequencies (Hz),,,
-Node,Argon,Carbon Dioxide,Nitrogen,Refrigerant Gas
+﻿Node,Argon Freq (Hz),CO2 Freq (Hz),Nitrogen Freq (Hz),Ref. Gas Freq (Hz)
 1,269,222,290,168
 2,533,448,582,344
 3,799,672,872,511
