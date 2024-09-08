@@ -1,0 +1,5 @@
+Gas	Temperature [C]
+Argon	24.5
+Carbon Dioxide	24.5
+Nitrogen	24.4
+Refrigerant Gas	24.6
