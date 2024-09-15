@@ -1,0 +1,25 @@
+Benzoic Acid C7H6O2			
+Ideal Gas at 298.13 K			
+Std. Enthalpy of Formation	101.640	kJ mol-1	
+Speed of Sound	187.830	m/s	
+Adiabatic Index	1.110		
+Enthalpy			
+Translational	6.200	kJ mol-1	
+Rotational	3.720	kJ mol-1	
+Vibrational	250.490	kJ mol-1	
+Total	260.410	kJ mol-1	
+Heat Capacity at Constant Volume			
+Translational	12.470	J mol-1ÊK-1	
+Rotational	12.470	J mol-1ÊK-1	
+Vibrational	49.430	J mol-1ÊK-1	
+Total	74.370	J mol-1ÊK-1	
+Heat Capacity at Constant Pressure			
+Translational	20.790	J mol-1ÊK-1	
+Rotational	12.470	J mol-1ÊK-1	
+Vibrational	49.430	J mol-1ÊK-1	
+Total	82.680	J mol-1ÊK-1	
+Entropy			
+Translational	163.090	J mol-1ÊK-1	
+Rotational	107.400	J mol-1ÊK-1	
+Vibrational	21.500	J mol-1ÊK-1	
+Total	291.980	J mol-1ÊK-1	
